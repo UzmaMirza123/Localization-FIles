@@ -25,18 +25,19 @@
   },
   "toasterMessage": "Isonomy setting have been Reset.",
   "lanTitleHeading": "Choose a Language",
-  "profile": {
-    "proTitles": [
-      "Motor Impaired",
-       "Blind",
-       "Color Blind",
-       "Dyslexia",
-       "Visually-Impaired",
-      "Cognitive & Learning",
-      "Seizure & Epileptic",
-       "ADHD"
-    ]
-  },
+"profile": {
+  "proTitles": {
+    "motorImpair": "Motor Impaired",
+    "accBlind": "Blind",
+    "accClrBlind": "Color Blind",
+    "accDylexia": "Dyslexia",
+    "accVisualImpaired": "Visually-Impaired",
+    "accCogLearning": "Cognitive & Learning",
+    "accSeizurEpileptic": "Seizure & Epileptic",
+    "accADHD": "ADHD"
+  }
+}
+
   "content": {
    "contentTitles":{
      "1": "Show Tooltips",
