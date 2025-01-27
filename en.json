@@ -40,18 +40,18 @@
 
   "content": {
    "contentTitles":{
-     "1": "Show Tooltips",
-     "2": ["Font Size", "Font Size (14px)","Font Size (16px)", "Font Size (18px)", "Font Size (24px)"],
-     "3": ["Letter Spacing", "Letter Spacing (14px)", "Letter Spacing (16px)", "Letter Spacing (18px)"],
-     "4": ["Text Align", "Left Align", "Center Align", "Right Align", "Justified"],
-    "5": "Line Hight",
-    "6": "Underline Titles",
-    "7": "UnderLine Links",
-    "8": "Zoom Screen",
-    "9": ["Reading Line", "Reading Mask"],
-    "10": "Dyslexia Fonts",
-    "11": "Readable Font",
-    "12": "Keyboard Navigation"
+     "Tooltips": "Show Tooltips",
+     "FontSizing": ["Font Size", "Font Size (14px)","Font Size (16px)", "Font Size (18px)", "Font Size (24px)"],
+     "LetterSpacing": ["Letter Spacing", "Letter Spacing (14px)", "Letter Spacing (16px)", "Letter Spacing (18px)"],
+     "TextAlignment": ["Text Align", "Left Align", "Center Align", "Right Align", "Justified"],
+    "LineHight": "Line Hight",
+    "UndrerlineTitles": "Underline Titles",
+    "UndrerlineLinks": "UnderLine Links",
+    "ZoomScreen": "Zoom Screen",
+    "ReadingMode": ["Reading Line", "Reading Mask"],
+    "DyslexicFont": "Dyslexia Fonts",
+    "ReadbleFont": "Readable Font",
+    "KeyboardNav": "Keyboard Navigation"
    }
   },
   "Color": {
